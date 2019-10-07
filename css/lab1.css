@@ -1,0 +1,12 @@
+#container {
+	width: 300px;
+	height: 200px;
+	margin: 40px;
+	padding: 40px;
+	border: 20px dashed red;
+	background-color: #fff3e6; 
+}
+
+ul>li {
+	list-style-type: none;
+}
